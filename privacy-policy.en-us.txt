@@ -55,7 +55,7 @@ We may display advertisements from third-party ad networks in the Game. These ad
 
 [b]5.[/b] Children's Privacy
 
-The Game is intended for a general audience, including families. We do not knowingly collect personal information from children under the age of 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information.
+These Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under the age of 13. If we become aware that we have collected personal information from a child under 13, we will proceed to delete that information inmediately or take steps to delete that information. If you are a parent or guardian and you are aware that your child has provided us with personal information, please let us know as soon as possible so that we can take the corresponding actions.
 
 [b]6.[/b] Security
 
