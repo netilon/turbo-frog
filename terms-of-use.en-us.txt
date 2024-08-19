@@ -22,7 +22,7 @@ Welcome to TurboFrog, a mobile game developed by Netilon. By downloading, instal
 
 [b]4. Privacy[/b]
 
-	[b]4.1[/b] Your privacy is important to us. Please review our [url="../privacy-policy.en-us.html"]Privacy Policy[/url] to understand how we collect, use, and protect your personal information.
+	[b]4.1[/b] Your privacy is important to us. Please review our [url=../privacy-policy.en-us.html]Privacy Policy[/url] to understand how we collect, use, and protect your personal information.
 
 [b]5. In-App Purchases[/b]
 
@@ -30,7 +30,7 @@ Welcome to TurboFrog, a mobile game developed by Netilon. By downloading, instal
 
 [b]6. Advertisements[/b]
 
-	[b]6.1[/b] The Game may display advertisements. By using the Game, you agree to the display of such advertisements. For more information on how ads are displayed and data is used, please review our [url="../privacy-policy.en-us.html"]Privacy Policy[/url].
+	[b]6.1[/b] The Game may display advertisements. By using the Game, you agree to the display of such advertisements. For more information on how ads are displayed and data is used, please review our [url=../privacy-policy.en-us.html]Privacy Policy[/url].
 
 [b]7. Termination[/b]
 
