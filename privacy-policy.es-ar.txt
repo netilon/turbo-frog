@@ -1,0 +1,78 @@
+[b]Política de privacidad[/b]
+
+Última actualización: 14/8/2024
+
+Fabian Roberto Orue ("Netilon", "nosotros", "nos" o "nuestro") se compromete a proteger su privacidad. Esta Política de privacidad explica cómo recopilamos, usamos y compartimos su información cuando utiliza TurboFrog ("el Juego").
+
+Al descargar, instalar y utilizar el Juego, acepta la recopilación y el uso de su información de acuerdo con esta Política de privacidad. Si no está de acuerdo con esta política, por favor no utilice el Juego.
+
+[b]1. Información que recopilamos[/b]
+
+	[b]1.1[/b] Información personal:
+	Podemos recopilar información personal que nos proporcione voluntariamente, como su nombre, dirección de correo electrónico u otros datos de contacto cuando se comunique con nosotros o interactúe con el Juego.
+
+	[b]1.2[/b] Información recopilada automáticamente:
+	Cuando utilizas el Juego, podemos recopilar automáticamente cierta información, que incluye:
+
+		Información del dispositivo: información sobre el dispositivo que utilizas para acceder a el Juego, como el modelo de tu dispositivo, la versión del sistema operativo, los identificadores únicos del dispositivo y la información de la red móvil.
+
+		Datos de uso: información sobre cómo utilizas el Juego, incluidos los datos de juego, las funciones a las que accedes y el tiempo y la duración de tus sesiones.
+
+		Datos de logs: archivos de logs que registran tus interacciones con el Juego, incluida tu dirección IP, tipo de navegador e informes de fallos.
+
+	[b]1.3[/b] Información de compra dentro de la aplicación
+	Si realizas compras dentro de la aplicación, podemos recopilar información relacionada con la transacción, como tu historial de compras, pero no recopilamos ni almacenamos tu información de pago. Los pagos son procesados ​​por la plataforma (por ejemplo, Google Play Store) desde la que realizaste la compra.
+
+
+
+[b]2. Cómo usamos su información[/b]
+
+Usamos la información que recopilamos para:
+
+- Proporcionar, mantener y mejorar el Juego y sus funciones.
+- Personalizar su experiencia dentro de el Juego.
+- Responder a sus consultas y brindar soporte al cliente.
+- Analizar patrones de uso para mejorar el Juego y desarrollar nuevas funciones.
+- Mostrar anuncios dentro de el Juego.
+- Cumplir con las obligaciones legales y proteger nuestros derechos legales.
+
+[b]3. Compartir su información[/b]
+
+No vendemos, comercializamos ni transferimos de ningún otro modo su información personal a terceros, excepto en las siguientes circunstancias:
+
+- Proveedores de servicios: podemos compartir su información con proveedores de servicios externos que nos ayudan a operar el Juego, llevar adelante nuestro negocio o brindarle servicios, siempre que dichas partes acuerden mantener esta información confidencial.
+
+- Cumplimiento legal: Podemos divulgar su información si así lo exige la ley o en respuesta a solicitudes válidas de autoridades públicas (por ejemplo, un tribunal o una agencia gubernamental).
+
+- Transferencias comerciales: en el caso de una fusión, adquisición o venta de activos, su información puede transferirse como parte de esa transacción.
+
+[b]4. Publicidad[/b]
+
+Es posible que mostremos anuncios de redes publicitarias de terceros en el Juego. Estas redes publicitarias pueden recopilar y utilizar información sobre su uso de el Juego para mostrarle anuncios que podrían ser de su interés. Para obtener más información, revise las políticas de privacidad de las respectivas redes publicitarias.
+
+
+- Google AdMob | [url=https://policies.google.com/privacy]Política de Privacidad[/url] | [url=https://policies.google.com/technologies/partner-sites]Uso de Datos[/url]
+
+[b]5. Privacidad de los niños[/b]
+
+Estos Servicios no están dirigidos a ninguna persona menor de 16. No recopilamos deliberadamente información personal identificable de niños menores de 16. Si nos damos cuenta de que hemos recopilado información personal de un niño menor de 16, procederemos a eliminar dicha información de inmediato o tomaremos medidas para eliminarla. Si usted es padre o tutor y sabe que su hijo nos ha proporcionado información personal, infórmenos lo antes posible para que podamos tomar las medidas correspondientes.
+
+[b]6. Seguridad[/b]
+
+Tomamos medidas razonables para proteger su información contra accesos, alteraciones, divulgaciones o destrucción no autorizados. Sin embargo, ningún método de transmisión por Internet o almacenamiento electrónico es 100 % seguro y no podemos garantizar una seguridad absoluta.
+
+[b]7. Sus opciones[/b]
+
+Puede optar por no proporcionar cierta información, pero esto puede limitar su capacidad para usar ciertas funciones de el Juego. También puede ajustar la configuración de su dispositivo para limitar la información recopilada por el Juego.
+
+[b]8. Cambios a esta Política de privacidad[/b]
+
+Podemos actualizar esta Política de privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de privacidad en esta página y actualizando la fecha de "Última actualización" que aparece arriba. Le recomendamos que revise esta Política de privacidad periódicamente para comprobar si hay cambios.
+
+[b]9. Usuarios internacionales[/b]
+
+El Juego se opera desde Argentina, y podemos almacenar y procesar su información en servidores ubicados en los Estados Unidos u otros países donde se encuentran nuestros proveedores de servicios. Al usar el Juego, usted acepta la transferencia de su información a estas ubicaciones. Tenga en cuenta que las leyes de protección de datos en estos países pueden diferir de las de su país de residencia.
+
+[b]10. Contáctenos[/b]
+
+Si tiene alguna pregunta o inquietud sobre esta Política de privacidad o nuestras prácticas, contáctenos a netilon.turbofrog@gmail.com.
