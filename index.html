@@ -4,32 +4,50 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Turbo Frog</title>
+    <link href="./assets/css/main.css" rel="stylesheet" />
   </head>
-  <body>
-    <h1 id="title">Turbo Frog Terms of use and Privacy Policy</h1>
+  <body class="main-bg">
+    <article class="main-container">
+      <h1 class="title centered">Turbo Frog</h1>
 
-    <label for="language-select">Select Language:</label>
-    <select id="language-select" onchange="changeLanguage()">
-      <option value="en">English</option>
-      <option value="es">Español</option>
-      <!-- Add more languages here -->
-    </select>
-    <ul>
-      <li>
-        <a
-          id="terms-link"
-          href="https://netilon.github.io/turbo-frog/terms-of-use.en-us.html"
-          >Terms of use</a
-        >
-      </li>
-      <li>
-        <a
-          id="privacy-link"
-          href="https://netilon.github.io/turbo-frog/privacy-policy.en-us.html"
-          >Privacy Policy</a
-        >
-      </li>
-    </ul>
+      <div class="centered">
+			<a href="https://play.google.com/store/apps/details?id=com.netilon.turbofrog&hl=es_419">
+				<img src="./assets/images/playstore-logo.png" alt="Google PlayStore">
+			</a>
+
+			<a href="https://discord.com/channels/@me/1217550594902986784">
+				<img src="./assets/images/discord-logo.png" alt="Discord">
+			</a>
+
+			</div>
+      <div class="centered">
+        <h2 id="title" class="subtitle">
+          Turbo Frog Terms of use and Privacy Policy
+        </h2>
+        <label for="language-select">Select Language:</label>
+        <select id="language-select" onchange="changeLanguage()">
+          <option value="en">English</option>
+          <option value="es">Español</option>
+          <!-- Add more languages here -->
+        </select>
+        <ul>
+          <li>
+            <a
+              id="terms-link"
+              href="https://netilon.github.io/turbo-frog/terms-of-use.en-us.html"
+              >Terms of use</a
+            >
+          </li>
+          <li>
+            <a
+              id="privacy-link"
+              href="https://netilon.github.io/turbo-frog/privacy-policy.en-us.html"
+              >Privacy Policy</a
+            >
+          </li>
+        </ul>
+      </div>
+    </article>
   </body>
   <script>
     // Define translations
@@ -101,8 +119,7 @@
     }
 
     window.onload = function () {
-      const lang =
-        getQueryParam('lang') || getUserLanguage() || 'en';
+      const lang = getQueryParam('lang') || getUserLanguage() || 'en';
       translateContent(lang);
     };
   </script>
