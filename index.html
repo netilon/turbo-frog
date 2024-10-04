@@ -10,7 +10,27 @@
   <body class="main-bg">
     <article class="main-container">
       <h1 class="title centered">Turbo Frog</h1>
-      <div class="centered">
+      <div class="centered vertical-spacing">
+        <label for="language-select">Select Language:</label>
+        <select id="language-select" onchange="changeLanguage()">
+          <option value="en">English</option>
+          <option value="es">Español</option>
+          <!-- Add more languages here -->
+        </select>
+      </div>
+      <div class="videoWrapper vertical-spacing">
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/BbAmfp4otoc?si=rPgZHjHimaPU_-LG"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <div class="logos centered">
         <a
           href="https://play.google.com/store/apps/details?id=com.netilon.turbofrog&hl=es_419"
         >
@@ -27,12 +47,7 @@
         <h2 id="title" class="subtitle">
           Turbo Frog Terms of use and Privacy Policy
         </h2>
-        <label for="language-select">Select Language:</label>
-        <select id="language-select" onchange="changeLanguage()">
-          <option value="en">English</option>
-          <option value="es">Español</option>
-          <!-- Add more languages here -->
-        </select>
+
         <ul>
           <li>
             <a
